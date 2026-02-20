@@ -1,3 +1,7 @@
 ddgs
 requests
 PyMuPDF
+fastapi
+uvicorn
+aiohttp
+aiofiles
