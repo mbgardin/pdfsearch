@@ -48,11 +48,11 @@ function App() {
         <div className="p-4 bg-indigo-600/20 rounded-full border border-indigo-500/30 mb-6 shadow-[0_0_30px_rgba(79,70,229,0.2)]">
           <DocumentMagnifyingGlassIcon className="w-12 h-12 text-indigo-400" />
         </div>
-        <h1 className="text-4xl md:text-5xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 via-purple-400 to-pink-400 tracking-tight text-center mb-4">
+        <h1 className="text-4xl md:text-5xl font-extrabold text-transparent bg-clip-text bg-white text-center mb-4">
           PDF Search Engine
         </h1>
         <p className="text-slate-400 text-lg md:text-xl text-center max-w-2xl font-light">
-          A powerful tool to find, validate, and filter academic and technical PDF documents across the web.
+          A powerful tool to find, validate, and filter academic and technical PDF documents across the web developed by Monte Gardiner.
         </p>
       </div>
 
